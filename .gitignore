@@ -1,0 +1,6 @@
+.idea
+.vscode
+demographer.iml
+__pycache__
+logs/
+*-config.json
